@@ -1,0 +1,41 @@
+.jumbotron{
+  margin-bottom: 0;
+  height: 100vh;
+  background-image: url(../img/13.jpg);
+  background-size: cover;
+}
+.ds{
+	margin-right: 10px;
+}
+.form{
+  margin-top: 60px;
+  background-color: white;
+  border-radius: 8px;
+  margin-bottom: 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.form-control{
+  background-color: #F0F0F0;
+  border: none;
+  height: 45px;
+}
+.form-group{
+  margin-top: 13px;
+}
+.btnSubmit{
+  margin-bottom: 30px;
+}
+footer{
+  margin-top: 20px;
+  color: white;
+}
+h2{
+  padding: 15px;
+}
+.btnSubmit .dDonatur{
+  margin-top: 10px;
+}
+
+.btnSubmit a:hover{
+  text-decoration: none;
+}

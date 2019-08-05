@@ -1,0 +1,13 @@
+.logout{
+  border-top: 1px solid #E9ECEF;
+}
+.dropdown-item{
+  text-align: center;
+}
+.dropdown-item:hover{
+  background-color: #007BFF;
+  color: white;
+}
+.ds{
+  margin-right: 10px;
+}
